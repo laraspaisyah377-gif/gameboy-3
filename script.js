@@ -223,9 +223,9 @@ function startTypewriter() {
     const messageContent = document.querySelector('.message-content');
     if (!messageContent) return;
     
-    const fullMessage = `Hi,
+    const fullMessage = `Hi, zerr
 
-Selamat ulang tahun, jerr 🌸
+Selamat ulang tahun ya 🌸
 
 Semoga hari ini membawa banyak kebahagiaan dan cinta buat lu. Gw harap semoga kehidupan akan terus berjalan seperti yang lu inginkan dan doa doa yang lu panjatkan akan segera terkabul.
 
@@ -1191,3 +1191,4 @@ function handleContinueNavigation() {
             showScreen('main');
     }
 }
+
